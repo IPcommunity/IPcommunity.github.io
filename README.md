@@ -1,5 +1,7 @@
 This is the website of the github group of the International Community of Induced Polarization (IP).
 
+![Group photo taken at the 7th IP workshop in Lund](ip7-groupfoto.jpg)
+
 In the 7th workshop on Induced Polarization (IP) in Lund, May 28-30, 2024, we had some nice discussions on
 
 comparability of different processing and inversion algorithms
