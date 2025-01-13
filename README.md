@@ -4,11 +4,12 @@ This is the website of the github group of the International Community of Induce
 
 In the 7th workshop on Induced Polarization (IP) in Lund, May 28-30, 2024, we had some nice discussions on
 
-comparability of different processing and inversion algorithms
-providing an overview on existing software, their potential and limitations
-creating benchmark models to test software on
-a collection of (already published) data sets with existing reference data to test existing or future codes
-a standard format for storing DCIP data (interoperability)
+* comparability of different processing and inversion algorithms
+* providing an overview on existing software, their potential and limitations
+* creating benchmark models to test software on
+* a collection of (already published) data sets with existing reference data to test existing or future codes
+* a standard format for storing DCIP data (interoperability)
+
 To start discussion and collection, we created several public github repositories to that everyone in the community can contribute. 
 * [Field data](https://github.com/IPcommunity/field-data)
 * [Data standards](https://github.com/IPcommunity/data-standard)
